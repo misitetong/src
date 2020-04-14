@@ -1,2 +1,1 @@
-# src
-any_src_file
+# 博客资源
